@@ -1,0 +1,368 @@
+{
+    "estructura.lista.Lista": {
+        "cabeza": {
+            "dato": {
+                "@class": "modelo.Censo",
+                "id": 1,
+                "censador": {
+                    "nombre": "Walter",
+                    "apellido": "Yaguana"
+                },
+                "censado": {
+                    "nombre": "Miguel",
+                    "apellido": "Apolo"
+                },
+                "tipo": "Separado",
+                "motivo": "infidelidad",
+                "fechaSeparacion": "2023-05-15",
+                "estadoEmosional": "triste"
+            },
+            "siguiente": {
+                "dato": {
+                    "@class": "modelo.Censo",
+                    "id": 2,
+                    "censador": {
+                        "nombre": "Walter",
+                        "apellido": "Yaguana"
+                    },
+                    "censado": {
+                        "nombre": "Emilio",
+                        "apellido": "Bravo"
+                    },
+                    "tipo": "Separado",
+                    "motivo": "enamorado",
+                    "fechaSeparacion": "2015-09-10",
+                    "estadoEmosional": "feliz"
+                },
+                "siguiente": {
+                    "dato": {
+                        "@class": "modelo.Censo",
+                        "id": 3,
+                        "censador": {
+                            "nombre": "Walter",
+                            "apellido": "Yaguana"
+                        },
+                        "censado": {
+                            "nombre": "Andres",
+                            "apellido": "Jimenez"
+                        },
+                        "tipo": "Separado",
+                        "motivo": "infiel",
+                        "fechaSeparacion": "2022-12-24",
+                        "estadoEmosional": "feliz"
+                    },
+                    "siguiente": {
+                        "dato": {
+                            "@class": "modelo.Censo",
+                            "id": 4,
+                            "censador": {
+                                "nombre": "Walter",
+                                "apellido": "Yaguana"
+                            },
+                            "censado": {
+                                "nombre": "Gabriel",
+                                "apellido": "Esponoza"
+                            },
+                            "tipo": "Separado",
+                            "motivo": "infidelidad",
+                            "fechaSeparacion": "2017-01-08",
+                            "estadoEmosional": "desanimado"
+                        },
+                        "siguiente": {
+                            "dato": {
+                                "@class": "modelo.Censo",
+                                "id": 5,
+                                "censador": {
+                                    "nombre": "Walter",
+                                    "apellido": "Yaguana"
+                                },
+                                "censado": {
+                                    "nombre": "Vicente ",
+                                    "apellido": "Cordero"
+                                },
+                                "tipo": "Casado",
+                                "motivo": "encontro su mujer de sus sueños",
+                                "fechaSeparacion": "2022-08-12",
+                                "estadoEmosional": "feliz"
+                            },
+                            "siguiente": {
+                                "dato": {
+                                    "@class": "modelo.Censo",
+                                    "id": 6,
+                                    "censador": {
+                                        "nombre": "Walter",
+                                        "apellido": "Yaguana"
+                                    },
+                                    "censado": {
+                                        "nombre": "Gladys",
+                                        "apellido": "Yaguana"
+                                    },
+                                    "tipo": "Casado",
+                                    "motivo": "econtro el amor",
+                                    "fechaSeparacion": "2022-08-12",
+                                    "estadoEmosional": "feliz"
+                                },
+                                "siguiente": {
+                                    "dato": {
+                                        "@class": "modelo.Censo",
+                                        "id": 7,
+                                        "censador": {
+                                            "nombre": "Walter",
+                                            "apellido": "Yaguana"
+                                        },
+                                        "censado": {
+                                            "nombre": "Marco",
+                                            "apellido": "Cordero"
+                                        },
+                                        "tipo": "Separado",
+                                        "motivo": "infiel",
+                                        "fechaSeparacion": "2018-02-04",
+                                        "estadoEmosional": "alegre"
+                                    },
+                                    "siguiente": {
+                                        "dato": {
+                                            "@class": "modelo.Censo",
+                                            "id": 8,
+                                            "censador": {
+                                                "nombre": "Walter",
+                                                "apellido": "Yaguana"
+                                            },
+                                            "censado": {
+                                                "nombre": "Silvana",
+                                                "apellido": "Yaguana"
+                                            },
+                                            "tipo": "Separado",
+                                            "motivo": "infiel",
+                                            "fechaSeparacion": "2023-02-09",
+                                            "estadoEmosional": "contenta"
+                                        },
+                                        "siguiente": {
+                                            "dato": {
+                                                "@class": "modelo.Censo",
+                                                "id": 9,
+                                                "censador": {
+                                                    "nombre": "Walter",
+                                                    "apellido": "Yaguana"
+                                                },
+                                                "censado": {
+                                                    "nombre": "Jose",
+                                                    "apellido": "Yaguana"
+                                                },
+                                                "tipo": "Casado",
+                                                "motivo": "enamorado",
+                                                "fechaSeparacion": "2011-12-03",
+                                                "estadoEmosional": "feliz"
+                                            },
+                                            "siguiente": {
+                                                "dato": {
+                                                    "@class": "modelo.Censo",
+                                                    "id": 10,
+                                                    "censador": {
+                                                        "nombre": "Walter",
+                                                        "apellido": "Yaguana"
+                                                    },
+                                                    "censado": {
+                                                        "nombre": "Keimer",
+                                                        "apellido": "Castillo"
+                                                    },
+                                                    "tipo": "Separado",
+                                                    "motivo": "infiel",
+                                                    "fechaSeparacion": "2010-01-04",
+                                                    "estadoEmosional": "desanimado"
+                                                },
+                                                "siguiente": {
+                                                    "dato": {
+                                                        "@class": "modelo.Censo",
+                                                        "id": 11,
+                                                        "censador": {
+                                                            "nombre": "Walter",
+                                                            "apellido": "Yaguana"
+                                                        },
+                                                        "censado": {
+                                                            "nombre": "Mercedes",
+                                                            "apellido": "Yaguana"
+                                                        },
+                                                        "tipo": "Casado",
+                                                        "motivo": "enamorada",
+                                                        "fechaSeparacion": "2010-05-11",
+                                                        "estadoEmosional": "alegre"
+                                                    },
+                                                    "siguiente": {
+                                                        "dato": {
+                                                            "@class": "modelo.Censo",
+                                                            "id": 12,
+                                                            "censador": {
+                                                                "nombre": "Walter",
+                                                                "apellido": "Yaguana"
+                                                            },
+                                                            "censado": {
+                                                                "nombre": "Karla",
+                                                                "apellido": "Jimenez"
+                                                            },
+                                                            "tipo": "Casado",
+                                                            "motivo": "encontro el amor",
+                                                            "fechaSeparacion": "2023-12-12",
+                                                            "estadoEmosional": "muy feliz"
+                                                        },
+                                                        "siguiente": {
+                                                            "dato": {
+                                                                "@class": "modelo.Censo",
+                                                                "id": 13,
+                                                                "censador": {
+                                                                    "nombre": "Walter",
+                                                                    "apellido": "Yaguana"
+                                                                },
+                                                                "censado": {
+                                                                    "nombre": "Mayra",
+                                                                    "apellido": "Merino"
+                                                                },
+                                                                "tipo": "Separado",
+                                                                "motivo": "infidelidad",
+                                                                "fechaSeparacion": "2022-09-08",
+                                                                "estadoEmosional": "se siente culpable"
+                                                            },
+                                                            "siguiente": {
+                                                                "dato": {
+                                                                    "@class": "modelo.Censo",
+                                                                    "id": 14,
+                                                                    "censador": {
+                                                                        "nombre": "Walter",
+                                                                        "apellido": "Yaguana"
+                                                                    },
+                                                                    "censado": {
+                                                                        "nombre": "Rafael",
+                                                                        "apellido": "Cordero"
+                                                                    },
+                                                                    "tipo": "Casado",
+                                                                    "motivo": "se enamoro",
+                                                                    "fechaSeparacion": "2009-07-09",
+                                                                    "estadoEmosional": "muy enamorado"
+                                                                },
+                                                                "siguiente": {
+                                                                    "dato": {
+                                                                        "@class": "modelo.Censo",
+                                                                        "id": 15,
+                                                                        "censador": {
+                                                                            "nombre": "Walter",
+                                                                            "apellido": "Yaguana"
+                                                                        },
+                                                                        "censado": {
+                                                                            "nombre": "Lucia",
+                                                                            "apellido": "Alejandro"
+                                                                        },
+                                                                        "tipo": "Casado",
+                                                                        "motivo": "se anamoro a temprana edad",
+                                                                        "fechaSeparacion": "1994-03-08",
+                                                                        "estadoEmosional": "se siente muy feliz"
+                                                                    },
+                                                                    "siguiente": {
+                                                                        "dato": {
+                                                                            "@class": "modelo.Censo",
+                                                                            "id": 16,
+                                                                            "censador": {
+                                                                                "nombre": "Walter",
+                                                                                "apellido": "Yaguana"
+                                                                            },
+                                                                            "censado": {
+                                                                                "nombre": "Cristian",
+                                                                                "apellido": "Diaz"
+                                                                            },
+                                                                            "tipo": "Separado",
+                                                                            "motivo": "Alcoholico",
+                                                                            "fechaSeparacion": "2007-02-09",
+                                                                            "estadoEmosional": "inpaciente"
+                                                                        },
+                                                                        "siguiente": {
+                                                                            "dato": {
+                                                                                "@class": "modelo.Censo",
+                                                                                "id": 17,
+                                                                                "censador": {
+                                                                                    "nombre": "Walter",
+                                                                                    "apellido": "Yaguana"
+                                                                                },
+                                                                                "censado": {
+                                                                                    "nombre": "German",
+                                                                                    "apellido": "Gaona"
+                                                                                },
+                                                                                "tipo": "Casado",
+                                                                                "motivo": "enamorado",
+                                                                                "fechaSeparacion": "2008-12-09",
+                                                                                "estadoEmosional": "feliz"
+                                                                            },
+                                                                            "siguiente": {
+                                                                                "dato": {
+                                                                                    "@class": "modelo.Censo",
+                                                                                    "id": 18,
+                                                                                    "censador": {
+                                                                                        "nombre": "Walter",
+                                                                                        "apellido": "Yaguana"
+                                                                                    },
+                                                                                    "censado": {
+                                                                                        "nombre": "Enrique",
+                                                                                        "apellido": "Lopez"
+                                                                                    },
+                                                                                    "tipo": "Separado",
+                                                                                    "motivo": "fallecio esposa",
+                                                                                    "fechaSeparacion": "2021-02-12",
+                                                                                    "estadoEmosional": "desanimado"
+                                                                                },
+                                                                                "siguiente": {
+                                                                                    "dato": {
+                                                                                        "@class": "modelo.Censo",
+                                                                                        "id": 19,
+                                                                                        "censador": {
+                                                                                            "nombre": "Walter",
+                                                                                            "apellido": "Yaguana"
+                                                                                        },
+                                                                                        "censado": {
+                                                                                            "nombre": "Brenda",
+                                                                                            "apellido": "Jimenez"
+                                                                                        },
+                                                                                        "tipo": "Casado",
+                                                                                        "motivo": "enamorada",
+                                                                                        "fechaSeparacion": "2023-12-08",
+                                                                                        "estadoEmosional": "feliz"
+                                                                                    },
+                                                                                    "siguiente": {
+                                                                                        "dato": {
+                                                                                            "@class": "modelo.Censo",
+                                                                                            "id": 20,
+                                                                                            "censador": {
+                                                                                                "nombre": "Walter",
+                                                                                                "apellido": "Yaguana"
+                                                                                            },
+                                                                                            "censado": {
+                                                                                                "nombre": "Danna",
+                                                                                                "apellido": "Castillo"
+                                                                                            },
+                                                                                            "tipo": "Separado",
+                                                                                            "motivo": "infidelidad",
+                                                                                            "fechaSeparacion": "2021-12-03",
+                                                                                            "estadoEmosional": "culpable"
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "cola": {
+            "@reference": "..\/cabeza\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente\/siguiente"
+        },
+        "longitud": 20
+    }
+}
